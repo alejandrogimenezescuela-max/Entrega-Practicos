@@ -1,3 +1,6 @@
-<Solution>
-  <Project Path="practico1/practico1.csproj" />
-</Solution>
+   <Solution>
+     <Project Path="practico1/practico1.csproj" />
+     <Project Path="practico2/practico2.csproj" />
+     <Project Path="practico3/practico3.csproj" />
+     <Project Path="practico4/practico4.csproj" />
+   </Solution>
